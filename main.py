@@ -189,6 +189,7 @@
 # H = (h * L) / l
 # print('THE ESTIMATED HEIGHT OF THE ELIZABETH TOWER (H) IS:' (H) )
 
+
 Treasure = input('Welcome to Treasure Island. Your mission is to find the treasure\n')
 
 
@@ -198,7 +199,6 @@ if Treasure == ' right':
          print('Fall into a hole.Game Over.\n')
      else:
           print('')
-
 
 
 
